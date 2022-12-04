@@ -1,5 +1,5 @@
 To run this project
-# Local project installation
+Local project installation
 composer update
 Generate Laravel Application Key
 Run migration
@@ -11,6 +11,6 @@ php artisan migrate
 php artisan db:seed
 php artisan php artisan jwt:secret
 
-## Default user will be 
+#Default user will be 
 Email - admin@admin.com
 password - password
