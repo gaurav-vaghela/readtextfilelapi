@@ -1,0 +1,1364 @@
+chapter#1
+
+sequence#1 : Jardin, night
+
+plan#1
+
+@narrative
+> Avant de commencer, quel est votre prnom ?
+
+@me
+= Votre prnom, username
+
+plan#2
+
+@voice : Pretendant (stay)
+> [username], ma douce, revenez !
+
+@me
+> Non ! J'ai besoin d'tre seule !
+
+plan#3
+
+@narrative
+> Je me dirige vers le balcon pour essayer de me calmer.
+
+plan#4
+
+@narrative
+> Si je passe une seconde de plus avec un de ces prtendants, je vais craquer.
+
+plan#5
+
+@narrative
+> Quelle ide ai-je eue d'accepter l'invitation de mon pre ?!
+
+plan#6
+
+@narrative
+> J'aurais d me douter que ce n'tait qu'un stratagme pour me prsenter ˆ des hommes !
+
+plan#7
+
+@narrative
+> Furieuse, je fais plusieurs aller-retours.
+
+plan#8
+
+@narrative
+> Heureusement, la brise lgre me fait frissonner et me calme.
+
+plan#9
+
+@narrative
+> Ici, avec ce silence, j'ai l'impression de pouvoir enfin respirer.
+
+plan#10
+
+@narrative
+> J'ai d passer toute la soire ˆ danser avec des inconnus.
+
+plan#11
+
+@narrative
+> Tous plus ennuyants les uns que les autres.
+
+plan#12
+
+@narrative
+> Ils n'avaient pas de vrais sujets de conversation.
+
+plan#13
+
+@narrative
+> Et ils pensaient qu'en me faisant des promesses de richesse, de mariage, d'enfant,
+
+plan#14
+
+@narrative
+> J'allais finir pendue ˆ leur bras.
+
+plan#15
+
+@narrative
+> Je soupire.
+
+plan#16
+
+@narrative
+> Cette soire est devenue pour moi une prison.
+
+plan#17
+
+@narrative
+> Alors que je m'appuie contre la barrire,
+
+plan#18
+
+@narrative
+> Le regard pos sur l'horizon,
+
+plan#19
+
+@narrative
+> Je sens quelque chose de chaud sur mes paules nues.
+
+@me
+> Pre, ne me dites pas que vous m'avez suivie jusqu'ici...
+
+plan#20
+
+@Homme Masqu (stay)
+
+@narrative
+> Agace, je me retourne pour faire face ˆ la personne que je pensais tre mon pre.
+
+plan#21
+
+@Homme Masqu (stay)
+
+@narrative
+> Mais je me retrouve nez-ˆ-nez avec un homme masqu.
+
+plan#22
+
+@Homme Masqu (stay)
+
+@narrative
+> Je me sens soudainement idiote...
+
+plan#23
+
+@Homme Masqu (stay)
+
+@narrative
+> J'essaye de me dtendre et de lui sourire.
+
+@me
+> Oh, c'est vous...
+
+plan#24
+
+@Homme Masqu (stay)
+
+@me
+> Excusez-moi, je vous ai pris pour quelqu'un d'autre.
+
+plan#25
+
+@narrative
+> Il me sourit et se dplace ˆ ma droite, deux coupes ˆ la main.
+
+@Homme Masqu
+> Puis-je vous offrir un verre ? Vous m'avez l'air tendue...
+
+plan#26
+
+@narrative
+> J'hsite un instant avant de prendre doucement le verre qu'il me tend.
+
+@Homme Masqu (stay, zoom)
+
+plan#27
+
+@narrative
+> Nos doigts se fr™lent et je sens comme un courant lectrique parcourir mon corps tout entier.
+
+@Homme Masqu (stay, zoom)
+
+plan#28
+
+@narrative
+> Je me mords la lvre puis dtourne le regard,
+
+@Homme Masqu (stay)
+
+plan#29
+
+@narrative
+> Je refoule cette sensation au plus profond de moi.
+
+plan#30
+
+@narrative
+> Je ne pensais pas le revoir de si t™t.
+
+plan#31
+
+@narrative
+> Alors que je me pose des questions,
+
+@Homme Masqu (stay)
+
+plan#32
+
+@narrative
+> Ses doigts froids fr™lent ma joue.
+
+@Homme Masqu (stay, zoom)
+> Ne perdez pas espoir...
+
+plan#33
+
+@Homme Masqu (happy, zoom)
+> Vous ne voulez pas un de ces goujats comme mari, n'est-ce pas ?
+
+plan#34
+
+@narrative
+> Il sait comment m'apaiser et me faire sourire.
+
+@Homme Masqu (happy, zoom)
+
+@me
+> Non, surtout pas.
+
+plan#35
+
+@Homme Masqu (happy)
+> Fa”tes ce dont vous rvez, je serai toujours ˆ vos c™ts.
+
+@narrative
+> Ces mots... Ce sont exactement ceux que j'ai besoin d'entendre.
+
+plan#36
+
+@narrative
+> Il est vraiment mon homme idal...
+
+@Homme Masqu
+> Quoiqu'il se passe, nous nous reverrons.
+
+@me
+> Qui tes=vous rellement... ?
+
+plan#37
+
+@narrative
+> Mais ma question reste sans rponse.
+
+plan#38
+
+@narrative
+> Je le vois sauter du balcon.
+
+plan#39
+
+@narrative
+> Et me prcipite jusqu'au rebord en pierre,
+
+@me
+> Attendez !
+
+sequence#2 : Chambre Anna, day
+
+plan#1
+
+@me
+> Un rve ?
+
+plan#2
+
+@narrative
+> Je me redresse dans mon lit l'esprit embrouill et entends la voix de ma sÏur..
+
+@voice : Leonore (stay)
+> [username] ? Dpche-toi ! Pre est parti depuis une heure djˆ !
+
+plan#3
+
+@narrative
+> Les cheveux en pagaille, je prends quand mme le temps de faire ma toilette,
+
+plan#4
+
+@narrative
+> Et de revtir la robe laisse ˆ mon intention par ma mre.
+
+plan#5
+
+@narrative
+> La tte dans les nuages, je descends les escaliers,
+
+sequence#3 : Salon Mocetti, day
+
+plan#1
+
+@narrative
+> Puis salue ma sÏur. qui discute avec notre cuisinier.
+
+@Leonore (happy)
+> Et bien, tu es rayonnante aujourd'hui !
+
+@me
+> J'ai fait un rve ˆ la fois troublant et plaisant,
+
+plan#2
+
+@Leonore (happy)
+> Oh, il tait dedans, n'est-ce pas ?
+
+@me
+> Peut-tre bien...
+
+plan#3
+
+@narrative
+> Nous rions avant que Leonore ne me rappelle ˆ l'ordre.
+
+@Leonore
+> Allez, dpche-toi !
+
+plan#4
+
+@narrative
+> Je l'embrasse et attrape le morceau de pain qu'elle me tend.
+
+@Leonore (stay)
+
+@me
+> Merci, tu es la meilleure Leonore. Ë ce soir !
+
+plan#5
+
+@narrative
+> Et sans plus attendre, je quitte le salon.
+
+sequence#4 : Domaine Mocetti, day
+
+plan#1
+
+@narrative
+> Les serviteurs de mon pre m'attendent devant la calche.
+
+plan#2
+
+@narrative
+> Une fois bien installe, nous prenons la route.
+
+plan#3
+
+@narrative
+> Il avait un rendez-vous important si je me souviens bien.
+
+plan#4
+
+@narrative
+> ... J'espre qu'il ne trouvera pas le moyen de faire des sous-entendus sur mon mariage.
+
+plan#5
+
+@narrative
+> Aprs un petit soupire, je me redresse et observe le paysage.
+
+plan#6
+
+@narrative
+> Je vis dans une famille aise.
+
+plan#7
+
+@narrative
+> Mon pre est ˆ la tte de plusieurs commerces.
+
+plan#8
+
+@narrative
+> Ma sÏur. et moi sommes sa plus grande fiert.
+
+plan#9
+
+@narrative
+> Mais depuis mon dernier anniversaire, il veut me marier.
+
+plan#10
+
+@narrative
+> Avec un bon parti uniquement, ce qui anoblira ma famille.
+
+plan#11
+
+@narrative
+> C'est le sort destin aux filles a”nes.
+
+plan#12
+
+@narrative
+> Mais je suis contre cette ide, je ne veux pas d'un mariage arrang.
+
+plan#13
+
+@narrative
+> Devoir tre la bonne petite femme parfaite,
+
+plan#14
+
+@narrative
+> Et ne se proccuper que de son apparence, trs peu pour moi.
+
+plan#15
+
+@narrative
+> Alors je fais le ncessaire pour dcourager les ventuels prtendants.
+
+plan#16
+
+@narrative
+> Quitte ˆ passer pour quelqu'un que je ne suis pas.
+
+plan#17
+
+@narrative
+> Et ce choix a dtrior mes relations avec ma famille.
+
+sequence#5 : March, day
+
+plan#1
+
+@narrative
+> Arrive sur la place du march, je vois mon pre discutant avec un noble.
+
+@me
+> Je le rejoins sans perdre de temps.
+-> goto : chapter#1, sequence#5, plan#12, @Pere
+> Je me dirige vers les choppes.
+-> purchase : 20
+-> goto : chapter#1, sequence#5, plan#2, @narrative
+
+plan#2
+
+@narrative
+> J'admire beaucoup le travail artisanal.
+
+plan#3
+
+@narrative
+> Mais j'aime avant tout la sculpture.
+
+plan#4
+
+@narrative
+> J'espre secrtement, au fond de moi, pouvoir percer dans ce domaine.
+
+plan#5
+
+@narrative
+> Mais c'est un mtier rserv aux hommes parait-il...
+
+@me
+> C'est absurde.
+
+plan#6
+
+@voice : commerante
+> Pardon mademoiselle ?
+
+@me
+> Non rien, dsole.
+
+plan#7
+
+@narrative
+> Soudain, je me sens comme observe.
+
+plan#8
+
+@narrative
+> Je lve les yeux et remarque une personne encapuchonne, immobile face ˆ moi.
+
+plan#9
+
+@narrative
+> Elle semble cacher quelque chose sous ses vtements.
+
+plan#10
+
+@narrative
+> Un groupe d'hommes se dirige rapidement vers elle et la personne prend la fuite.
+
+plan#11
+
+@narrative
+> Je ferais mieux d'y aller avant d'tre mle ˆ des choses qui me dpassent.
+
+plan#12
+
+@Pere
+> Ah bonjour [username] ! Ravi de te voir parmi nous.
+
+plan#13
+
+@Pere (stay)
+
+@narrative
+> Je le salue d'une petite rvrence.
+
+plan#14
+
+@Pere (stay)
+
+@narrative
+> Le noble me fixe longuement avant de sourire et de se pencher ˆ son tour.
+
+@voice : noble
+> Ma chre... Votre pre n'avait pas menti. Vous tes tout ˆ fait charmante et bien leve.
+
+@me
+> Merci.
+-> goto : chapter#1, sequence#5, plan#15, @voice
+> Ne sommes-nous pas lˆ pour travailler ?
+-> goto : chapter#1, sequence#5, plan#17, @narrative
+
+plan#15
+
+@voice : noble
+> De rien ma chre...,
+
+@narrative
+> Dit-il en prenant ma main pour y dposer un baiser.
+
+plan#16
+
+@narrative
+> Je me retiens de la retirer.
+-> goto : chapter#1, sequence#5, plan#18, @voice
+
+plan#17
+
+@narrative
+> Le noble me sourit avant de poursuivre sa discussion.
+
+@voice : noble
+> Oui, vous avez entirement raison.
+
+plan#18
+
+@Pere (stay)
+
+@voice : noble
+> Donc Edouard, j'accepte les termes du contrat,
+
+plan#19
+
+@Pere (stay)
+
+@voice : noble
+> Je te donnerai le tiers de mes bnfices si tu protges mon commerce.
+
+plan#20
+
+@Pere (happy)
+> J'ai de nombreux serviteurs, tu ne risqueras rien !
+
+plan#21
+
+@Pere (stay, zoom)
+
+@narrative
+> J'observe silencieusement la transaction.
+
+plan#22
+
+@Pere (stay, zoom)
+
+@narrative
+> Le commerce ne m'intresse pas.
+
+plan#23
+
+@Pere (stay, zoom)
+
+@narrative
+> Mais si je n'avais pas accept de l'aider,
+
+plan#24
+
+@Pere (stay, zoom)
+
+@narrative
+> J'aurais t consigne ˆ la maison pour montrer l'exemple ˆ ma sÏur..
+
+plan#25
+
+@Pere (stay, zoom)
+
+@narrative
+> Je dtourne le regard vers le port.
+
+plan#26
+
+@narrative
+> Je n'ai pas ˆ me plaindre de ma condition,
+
+plan#27
+
+@narrative
+> Pourtant, je me sens comme un oiseau en cage.
+
+plan#28
+
+@narrative
+> O est la perle rare qui me dlivrera de ma destine ?
+
+plan#29
+
+@narrative
+> Aprs une heure de discussion, le soleil est haut dans le ciel.
+
+plan#30
+
+@narrative
+> Je sens sa chaleur me couvrir.
+
+@voice : noble
+> Trs chre, vous devriez venir prs de moi. Le soleil est mauvais pour votre teint.
+
+@me
+> Merci mais pour le moment tout va bien.
+-> purchase : 15
+-> goto : chapter#1, sequence#5, plan#31, @narrative
+> Je hoche la tte et m'assois prs de lui.
+-> goto : chapter#1, sequence#5, plan#33, @narrative
+
+plan#31
+
+@narrative
+> Son sourire s'efface presque immdiatement et je souris en coin.
+
+plan#32
+
+@narrative
+> Et non, je ne suis pas intresse.
+
+plan#33
+
+@narrative
+> Les rendez-vous s'encha”nent mais le dernier se fait attendre.
+
+plan#34
+
+@narrative
+> Je vrifie mais il n'appara”t pas sur les registres.
+
+plan#35
+
+@narrative
+> Je hausse les paules et commence ˆ ranger les autres documents.
+
+plan#36
+
+@narrative
+> Comme a, nous pourrons partir directement aprs.
+
+plan#37
+
+@narrative
+> Des cris stridents de femmes parviennent ˆ mes oreilles.
+
+plan#38
+
+@narrative
+> Qu'est-ce qu'elles ont encore ?
+
+@voice : ??? (stay)
+> Bonjour Edouard, je m'excuse pour ce retard. La reine m'a quelque peu retenu.
+
+plan#39
+
+@narrative
+> Sa voix grave semble si proche de moi que j'ose ˆ peine me retourner.
+
+@Pere (happy)
+> Prince Philip ! Ne vous inquitez pas, je suis ravi de pouvoir faire affaire avec vous.
+
+plan#40
+
+@narrative
+> Le prince ?!
+
+@Pere (happy)
+
+plan#41
+
+@narrative
+> Depuis quand mon pre fait-il affaire avec la famille royale ?
+
+@Pere (happy)
+
+plan#42
+
+@narrative
+> Je me retourne rapidement et m'incline pour le saluer.
+
+@Philip (stay)
+
+plan#43
+
+@narrative
+> Nos regards se croisent et il semble surpris de me voir.
+
+@Philip (wonder)
+> Tiens ? Qui est cette superbe jeune femme ?
+
+plan#44
+
+@narrative
+> Il m'offre un sourire en coin, trs sduisant.
+
+@Philip (stay)
+
+plan#45
+
+@narrative
+> Il est exactement comme on le dit,
+
+@Philip (stay)
+
+plan#46
+
+@narrative
+> Un beau jeune homme.
+
+@Pere
+> [username] ma fille a”ne, mon prince.
+
+@Philip
+> Et bien enchant... [username].
+
+@me
+> Enchante...
+
+plan#47
+
+@narrative
+> Il a une faon d'appuyer mon prnom qui me drange un peu...
+
+@Philip (stay)
+
+plan#48
+
+@narrative
+> Pourtant, je n'arrive pas ˆ dtacher mon regard du sien.
+
+@Philip (stay)
+
+plan#49
+
+@Philip (stay, zoom)
+
+@narrative
+> Je le vois se pencher en avant pour attraper ma main.
+
+@me
+> Je me laisse faire par politesse.
+-> goto : chapter#1, sequence#5, plan#50, @narrative
+> Je recule d'un pas.
+-> goto : chapter#1, sequence#5, plan#55, @narrative
+
+plan#50
+
+@narrative
+> Il glisse doucement sa main dans la mienne et la remonte jusqu'ˆ ses lvres.
+
+@Philip (stay, zoom)
+
+plan#51
+
+@narrative
+> Il me fait un baise-main plus long que ncessaire,
+
+@Philip (stay, zoom)
+
+plan#52
+
+@narrative
+> Je n'ose plus faire un seul mouvement,
+
+@Philip (stay, zoom)
+
+&collection (1)
+
+plan#53
+
+@narrative
+> Je suis plus gne qu'autre chose,
+
+@Philip (stay, zoom)
+
+plan#54
+
+@Philip (stay, zoom)
+
+@narrative
+> Je soutiens son regard, connaissant ce numro par cÏur.
+-> goto : chapter#1, sequence#5, plan#59, @narrative
+
+plan#55
+
+@narrative
+> Le prince n'insiste pas et me dfend mme des remontrances de mon pre.
+
+@Pere (angry)
+
+@Philip (happy)
+> Allons Edouard, ce n'est rien. Je comprends qu'[username] n'accorde pas sa main ˆ n'importe qui.
+
+plan#56
+
+@narrative
+> Je cligne des yeux avant de lgrement pencher la tte pour le remercier.
+
+@Pere (angry)
+
+@Philip (happy)
+
+plan#57
+
+@narrative
+> Je ne pensais pas que le prince aurait pris ma dfense.
+
+@Philip (stay, zoom)
+
+plan#58
+
+@narrative
+> En tout cas, j'apprcie son geste.
+
+@Philip (stay, zoom)
+
+plan#59
+
+@narrative
+> J'invite ensuite le prince ˆ prendre place en face de mon pre.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#60
+
+@narrative
+> Et je me place ˆ ses c™ts, prte ˆ noter tous les termes du contrat.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#61
+
+@narrative
+> Le moins que je puisse dire c'est qu'il voit les choses en grand.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#62
+
+@narrative
+> Ses phrases sonnent comme des vidences. Il sait ce qu'il doit faire.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#63
+
+@narrative
+> Cependant, il semble manquer de quelque chose...
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#64
+
+@narrative
+> On dirait qu'il rcite un texte, comme un automate.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#65
+
+@narrative
+> Il n'a pas d'tincelle dans le regard.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#66
+
+@narrative
+> On se ressemble un peu alors.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#67
+
+@narrative
+> Moi aussi je cache beaucoup de choses, au fond.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#68
+
+@narrative
+> Et je n'ai personne ˆ qui en parler.
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#69
+
+@narrative
+> J'ai la sensation de me cacher derrire un masque...
+
+@Philip (stay)
+
+@Pere (stay)
+
+plan#70
+
+@narrative
+> Enfin, le rendez-vous se termine sur un accord commun.
+
+@Philip (happy)
+
+@Pere (happy)
+
+plan#71
+
+@narrative
+> Le prince a choisi notre famille pour diriger le march royal,
+
+@Philip (happy)
+
+@Pere (happy)
+
+plan#72
+
+@narrative
+> Et grer les changes avec les autres royaumes.
+
+@Pere (happy)
+> C'est un honneur, Prince Philip, merci beaucoup.
+
+@Philip (happy)
+> Je suis certain que vous serez ˆ la hauteur...
+
+plan#73
+
+@narrative
+> Lance-t-il en me fixant droit dans les yeux.
+
+@Philip (happy)
+
+plan#74
+
+@Pere (stay)
+
+@Philip (stay)
+> Bon, je dois retourner au ch‰teau, je vous dis ˆ bient™t Edouard... Mademoiselle [username].
+
+@narrative
+> Il me sourit longuement mais je lui rponds timidement.
+
+plan#75
+
+@Philip (stay)
+
+@Pere (stay)
+
+@me
+> J'ai vraiment chaud...
+-> purchase : 25
+-> goto : chapter#1, sequence#5, plan#76, @narrative
+> Mettons fin ˆ cet entretien.
+-> goto : chapter#1, sequence#6, plan#1, @narrative
+
+plan#76
+
+@narrative
+> Alors que j'allais m'avancer pour le saluer.
+
+@Philip (stay, zoom)
+
+plan#77
+
+@narrative
+> Je sens ma tte devenir chaude et ma vue se trouble lgrement.
+
+@Philip (stay, zoom)
+
+plan#78
+
+@narrative
+> J'essuie une goutte de sueur et lorsque je me baisse pour faire ma rvrence, je me sens sombrer.
+
+@Philip (wonder, zoom)
+> [username] ?
+
+plan#79
+
+@narrative
+> Le prince passe son bras autour de mes paules par rflexe.
+
+@Philip (stay, zoom)
+
+plan#80
+
+@narrative
+> Il pose ensuite sa main sur mon front.
+
+@Philip (stay, zoom)
+> Elle est brlante. Il faut qu'elle se repose.
+
+plan#81
+
+@narrative
+> Le prince met son deuxime bras sous mes jambes pour me soulever.
+
+@Philip (stay, zoom)
+
+plan#82
+
+@narrative
+> L'un des serviteurs de notre famille vient pour me rcuprer mais Philip l'en dissuade.
+
+@Philip (stay, zoom)
+> Je vais vous raccompagner.
+-> goto : chapter#1, sequence#7, plan#1, @Leonore
+
+sequence#6 : Salon Mocetti, day
+
+# -> skip
+
+plan#1
+
+@narrative
+> Ma sÏur. nous accueille chaleureusement et pose des questions sur notre journe.
+
+@Leonore (stay)
+
+plan#2
+
+@narrative
+> Elle ne sort pas de la maison sans autorisation.
+
+@Leonore (stay, zoom)
+
+plan#3
+
+@narrative
+> Depuis qu'un voyou a tent de la kidnapper pour demander une ranon.
+
+@Leonore (stay, zoom)
+
+plan#4
+
+@narrative
+> Nous avions eu si peur ce jour-lˆ...
+
+@Leonore (stay, zoom)
+
+plan#5
+
+@narrative
+> Je pose ma main sur sa tte gentiment en souriant.
+
+@Leonore (happy, zoom)
+
+plan#6
+
+@narrative
+> Je lui parle de ma rencontre inattendue et remarque que ses yeux soudain s'illuminent.
+
+@Leonore (wonder)
+> J'ai manqu le prince ? Il tait comment ? Sduisant ?
+
+@me
+> Chacun son point de vue...
+-> goto : chapter#1, sequence#6, plan#7, @Leonore
+> Assez oui.
+-> purchase : 15
+-> goto : chapter#1, sequence#6, plan#15, @Leonore
+
+plan#7
+
+@Leonore (sad)
+> Oh [username], tu vas finir vieille fille si tu continues ˆ penser comme a.
+
+@narrative
+> Je ne relve pas car elle a srement raison.
+
+plan#8
+
+@narrative
+> Je continue de discuter avec elle.
+
+@Leonore
+> Bon je vais aider ˆ faire le repas, tu viens ?
+
+@me
+> Oh non, Eddy sera plus heureux si tu es seule ˆ l'aider...
+
+plan#9
+
+@narrative
+> Elle rougit avant de me tirer la langue et part.
+
+@Leonore (inlove)
+
+plan#10
+
+@narrative
+> Eddy est notre cuisinier en chef. Il travaille pour nous depuis cinq ans maintenant.
+
+plan#11
+
+@narrative
+> C'est un jeune homme enjou, passionn par son travail.
+
+plan#12
+
+@narrative
+> Et ma sÏur. a l'air d'apprcier davantage sa compagnie que la n™tre.
+
+plan#13
+
+@narrative
+> La soire se droule ensuite plus sereinement.
+
+plan#14
+
+@narrative
+> Pre a cess de m'en vouloir et je peux ainsi me coucher plus apaise.
+-> end : chapter
+
+plan#15
+
+@Leonore (happy)
+> Oh [username], alors ce qu'on dit est vrai !
+
+@me
+> Oui il est vraiment charmant mais...
+
+plan#16
+
+@narrative
+> Elle rit et me fait signe du doigt.
+
+@Leonore (happy)
+> Pas de mais ! Tu devrais tenter ta chance !
+
+@me
+> Je ne veux pas tre l'une de ses nombreuses conqutes.
+
+plan#17
+
+@Leonore
+> Elles ne t'arrivent mme pas ˆ la cheville, et le prince va s'en rendre compte !
+
+@me
+> Oh ! Leonore, tu es adorable.
+
+plan#18
+
+@narrative
+> Je serre ma sÏur. dans mes bras.
+
+@Leonore (happy, zoom)
+
+plan#19
+
+@narrative
+> Elle sourit et quitte ensuite ma chambre.
+
+@Leonore (happy)
+
+plan#20
+
+@narrative
+> Moi, je me couche en pensant au prince.
+
+plan#21
+
+@narrative
+> Peut-tre aurons-nous l'occasion de faire plus ample connaissance...
+
+plan#22
+
+@narrative
+> Je l'espre en tout cas.
+-> end : chapter
+
+sequence#7 : Chambre Anna, night
+
+# -> skip
+
+plan#1 (black)
+
+@Leonore (stay, hidden)
+> [username]... [username] rveille-toi.
+
+@narrative
+> J'ouvre difficilement les yeux.
+
+plan#2
+
+@narrative
+> Je vois ma sÏur. assise prs de mon lit.
+
+@Leonore (wonder, zoom)
+
+@me
+> Leonore ?
+
+plan#3
+
+@Leonore (wonder, zoom)
+> Enfin ! Tu nous as fait peur.
+
+@me
+> Que s'est-il pass ?
+
+plan#4
+
+@Leonore (stay, zoom)
+> Tu t'es vanouie ˆ cause de la chaleur et c'est le Prince qui t'a raccompagne !
+
+@me
+> Comment ?!
+
+plan#5
+
+@narrative
+> Je me redresse vivement, le mouchoir humide sur mon front glisse et tombe sur mon ventre.
+
+@Leonore (happy)
+> Tu as bien entendu ! Tu es littralement tombe dans ses bras...
+
+plan#6
+
+@Leonore (happy)
+> Et il a insist pour t'emmener jusque dans ta chambre.
+
+plan#7
+
+@Leonore (stay)
+
+@narrative
+> Je me sens confuse et remarque un mot sur ma table de chevet.
+
+plan#8
+
+@narrative
+> Ç La prochaine fois, faites attention - Philip È
+
+plan#9
+
+@narrative
+> L'criture est assez fminine et raffine, il a d la faire crire par quelqu'un d'autre.
+
+plan#10
+
+@narrative
+> Je saisis le papier du bout des doigts avant de le mettre ˆ la poubelle.
+
+plan#11
+
+@narrative
+> Il est peut-tre diffrent des autres nobles que j'ai pu rencontrer en marchandant.
+
+plan#12
+
+@narrative
+> Mais je ne dois pas me laisser aller pour si peu.
+
+@Leonore
+> Il est gentil, non ?
+
+plan#13
+
+@Leonore (happy)
+> Si ce n'est pas ton genre [username], je veux bien l'pouser moi !
+
+@me
+> Oui il est gentil Leonore, mais pense surtout ˆ ce que tu veux faire plus tard.
+
+plan#14
+
+@Leonore (happy)
+
+@me
+> Surtout qu'un prince n'pouse pas n'importe qui,
+
+plan#15
+
+@narrative
+> Je sais qu'ˆ l'‰ge de Leonore, on attend le grand amour.
+
+@Leonore (stay, zoom)
+
+plan#16
+
+@narrative
+> Mais il se construit ˆ deux, il n'est pas immdiat.
+
+@Leonore (stay, zoom)
+
+plan#17
+
+@Leonore (stay, zoom)
+
+@narrative
+> Et puis on ne tombe pas amoureuse d'un homme que l'on vient juste de rencontrer.
+
+plan#18
+
+@Leonore (stay, zoom)
+
+@narrative
+> Pour le moment, je prfre garder une certaine distance entre nous.
+
+plan#19
+
+@Leonore (angry)
+> Tu es beaucoup trop complique [username] !
+
+@narrative
+> Ma sÏur. soupire et sort de ma chambre.
+
+plan#20
+
+@narrative
+> Je ne veux juste pas prcipiter les choses.
+
+plan#21
+
+@narrative
+> Je me lve pour reposer le mouchoir et me changer.
+
+plan#22
+
+@narrative
+> Je ne sais pas si c'est ˆ cause de mon vanouissement,
+
+plan#23
+
+@narrative
+> Mais en tout cas je n'ai pas envie de d”ner...
+
+plan#24
+
+@narrative
+> J'attache mes cheveux en chignon et je me glisse dans mon lit.
+-> end : chapter
